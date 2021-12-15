@@ -1,0 +1,23 @@
+dateModified: 1639610388
+email:
+  fromEmail: brianb@buildlabs.io
+  fromName: Thephipps
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7a148954-7207-4d24-aeaf-0010991b21aa: Common # Common
+    18de8ccc-d0a6-438a-b73f-6d76303bc886: Thephipps # Thephipps
+    080be37c-4f4b-4c52-bdf0-e8606ac93d75: Thephipps # Thephipps
+system:
+  edition: solo
+  live: true
+  name: thePhipps
+  retryDuration: null
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
