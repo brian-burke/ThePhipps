@@ -1,13 +1,27 @@
-dateModified: 1639610388
+dateModified: 1639791183
 email:
   fromEmail: brianb@buildlabs.io
   fromName: Thephipps
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    4e6587bd-5ab4-4dfc-96d8-e332827abf4f: 'Spotlight Content' # Spotlight Content
     7a148954-7207-4d24-aeaf-0010991b21aa: Common # Common
+    8f0a3560-8d58-41bd-bcd8-401bf0e6622e: 'Event Date/Time' # Event Date/Time
     18de8ccc-d0a6-438a-b73f-6d76303bc886: Thephipps # Thephipps
+    45fed73a-18f2-409e-aa6c-96bf77f5436f: Shows # Shows
     080be37c-4f4b-4c52-bdf0-e8606ac93d75: Thephipps # Thephipps
+    995cbd3e-bd1f-422a-b74b-4358b868879d: Events # Events
+    a75043db-59f2-4c91-81ea-6c8b26e6060d: description # description
+    aa0654bf-a496-4395-8680-fe95ce2b9311: home # home
+    d5a3deb2-b699-4f49-a370-114bed16c3a0: Spotlights # Spotlights
+    f0f8b829-f67a-44b8-ad57-269e19e9319b: home # home
+    f38779c3-6f2c-4746-b86d-4ff8e352221a: Default # Default
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: solo
   live: true
